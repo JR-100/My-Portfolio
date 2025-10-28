@@ -3,7 +3,7 @@ This portfolio website is a reflection of my skills, creativity, and growth as a
 
 My skills in both front-end and back-end development
 
-Projects I’ve built, including my OJT/Internship Monitoring System
+Projects I’ve helped building, including my OJT/Internship Monitoring System
 
 Links to my social media and professional profiles
 
